@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reserva>
+<nombre>null</nombre>
+<fechaEvento>null</fechaEvento>
+<tipo>null</tipo>
+<asistentes>null</asistentes>
+<tipoCocina>null</tipoCocina>
+<numeroJornadas>null</numeroJornadas>
+<habitaciones>null</habitaciones>
+<tipoMesa>null</tipoMesa>
+<comensalesMesa>null</comensalesMesa>
+</reserva>

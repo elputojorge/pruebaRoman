@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reserva>
+    <nombre>Jorge Martinez Recio</nombre>
+    <fechaEvento>25/12/2023</fechaEvento>
+    <tipo>Banquete</tipo>
+    <asistentes>5</asistentes>
+    <tipoCocina>carta</tipoCocina>
+    <numeroJornadas>18</numeroJornadas>
+    <habitaciones>4</habitaciones>
+    <tipoMesa>redonda</tipoMesa>
+    <comensalesMesa>5</comensalesMesa>
+    <aaa></aaa>
+    <ciudad>Madrid<ciudad>
+</reserva>
